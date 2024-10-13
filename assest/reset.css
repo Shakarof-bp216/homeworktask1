@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a,ul,li{
+    text-decoration: none;
+    list-style: none;
+}
+img{
+    width: 100%;
+    height: 100%;
+}
